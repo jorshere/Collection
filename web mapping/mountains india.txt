@@ -1,0 +1,6 @@
+Name,Latitude,Longitude
+Mount Yunum, Himchal Pradesh, India;32.818874;77.404518
+Kalsubai Peak, Indore, Maharashtra, India;19.601229;73.709152
+Dhuma Dongar Mount, Sangamner, Maharashtra, India;19.588379;74.099884
+Ladakh Range, India;34.000000;78.000000
+Mount Abu, Rajasthan, India;24.531445;72.733360

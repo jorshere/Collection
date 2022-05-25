@@ -1,0 +1,19 @@
+
+Place Name;Latitude;Longitude
+Chandigarh International Airport, Chandigarh, Punjab, India;30.667767;76.786232
+Diu Airport, Diu, Daman and Diu, India	;20.714273;70.921616
+Bhubaneswar Airport, Aerodrome Area, Bhubaneswar, Odisha, India;20.254713;85.816574
+Kempegowda International Airport (BLR), Karnataka, India;13.199379;77.710136
+Biju Patnaik International Airport (BBI), Bhubaneshwar, Odisha, India;20.254780;85.816521
+Visakhapatnam Airport, Andhra Pradesh, India;17.728647;83.223549
+Indira Gandhi International Airport (DEL), New Delhi, Delhi, India;28.556160;77.100281
+Solapur Airport (SSE), Solapur, Maharashtra, India;17.625862;75.930717
+Biju Patnaik International Airport (BBI), Bhubaneshwar, Odisha, India;20.256399;85.815758
+Karad Airport, Varunji, Maharashtra, India;17.286358;74.157951
+Chhatrapati Shivaji International Airport (BOM), Vile Parle East, Mumbai, India;19.097403;72.874245
+Raxaul Airport, Ekderwa, Bihar, India;26.996279;84.820374
+Mount Yunum, Himchal Pradesh, India;32.818874;77.404518
+Kalsubai Peak, Indore, Maharashtra, India;19.601229;73.709152
+Dhuma Dongar Mount, Sangamner, Maharashtra, India;19.588379;74.099884
+Ladakh Range, India;34.000000;78.000000
+Mount Abu, Rajasthan, India;24.531445;72.733360
